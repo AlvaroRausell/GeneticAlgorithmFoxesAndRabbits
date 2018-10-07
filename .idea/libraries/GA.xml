@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/GA/GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
