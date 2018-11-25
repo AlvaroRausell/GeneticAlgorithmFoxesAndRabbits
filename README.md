@@ -9,4 +9,4 @@ set of parameters that would make the simulation stable enough for it to last ar
 To solve this, I developed a genetic algorithm in order to find the best combination of parameters in order to make it last the
 longest.
 
-(https://imgur.com/2rOYR99)
+![](https://imgur.com/2rOYR99)
