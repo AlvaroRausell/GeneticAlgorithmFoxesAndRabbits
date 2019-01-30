@@ -83,7 +83,8 @@ public class Genotype {
     private void run() throws Exception {
         Simulator sim = new Simulator(firstHalf,secondHalf);
         sim.reset();
-       fitness = sim.simulate(4000);
+
+       fitness = (sim.simulate(4000)+sim.simulate(4000))/2;
 
     }
 
